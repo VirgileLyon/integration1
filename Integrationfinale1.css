@@ -1,0 +1,32 @@
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: grey;
+}
+
+h5{
+color: white;
+}
+
+#banner{
+color: white;
+}
+
+h2{
+text-align: center;
+}
+
+#carouselExampleIndicators .carousel-item{
+  max-height: 400px;
+}
+
+.card-text{
+	color: black;
+}
+
+.card img{
+opacity: 0.65;
+transition: opacity 700ms
+}
+
+.card img:hover{
+opacity: 1;
+}
